@@ -1,0 +1,3 @@
+python code for take an image from RPi3 camera 
+
+__ remember to enable camera from "raspi-config" ___

@@ -4,9 +4,10 @@ In this repository, we try to use Raspberry Pi 3 and RPi camera for image proces
 
 imageProcessing: 1st Take Image
 
+For using RPi as a controller in robots, we need to control GPIO pins.
 
-robotics: 1st blink
-          2nd button(Input)
-		  3rd GPIO(Output)
-		  4th PWM_maker
-		  5th stepper_motor Control
+robotics: 1st blink,
+          2nd button(Input),
+		  3rd GPIO(Output),
+		  4th PWM_maker,
+		  5th stepper_motor Control.
